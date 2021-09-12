@@ -1,0 +1,29 @@
+body{
+    background-image: url("22222.jpg");
+}
+h1{
+    color: aliceblue;
+text-align: center;
+font-size: 55px;
+}
+ul{
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 20px black;
+}
+ol{
+    background-color: aliceblue;
+    width: 500px;
+    margin:auto;
+    border-radius: 5px;
+    box-shadow:0 0 20px black;
+}
+h6{
+    text-align: center;
+    color: darkmagenta;
+    font-size:30px; 
+
+
+    }
